@@ -1,0 +1,23 @@
+{
+  "name": "portchecker",
+  "version": "1.0.0",
+  "description": "This will check what ports are open",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarterPillow/PortChecker.git"
+  },
+  "author": "Carter Hanson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarterPillow/PortChecker/issues"
+  },
+  "homepage": "https://github.com/CarterPillow/PortChecker#readme",
+  "devDependencies": {
+    "electron": "^18.2.4"
+  }
+}
